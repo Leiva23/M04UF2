@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<song>
+	<title>Scary Monters and Nice Sprites</title>
+	<artists>
+		<artist id="1">Skrillex</artist>
+	</artists>
+	<genres>
+		<genre id="1" />
+	</genres>
+	<duration seconds = "243" />
+	<lyrics lang="en" format="str">
+	</lyrics>
+	<album id="1" />
+</song>
