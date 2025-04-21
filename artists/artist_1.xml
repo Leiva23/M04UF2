@@ -1,11 +1,11 @@
 <?xml versio="1.0" encoding="UTF-8" ?>
 
 <artist>
-	<name></name>
-	<nationality country="" />
-	<birthdate date="" />
+	<name>Galvan Real</name>
+	<nationality country="es" />
+	<birthdate date="20-05-1985" />
 	<deathdate date="" />
 	<albums>
-		<album id="" />
+		<album id="1" />
 	</albums>
 </artist>
