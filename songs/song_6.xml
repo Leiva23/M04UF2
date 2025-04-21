@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<song>
+    <title>Reggae cale</title>
+    <artists>
+        <artist id="2">Kinky Bwoy</artist>
+    </artists>
+    <genres>
+        <genre id="1, 2" />
+    </genres>
+    <duration seconds="230" />
+    <lyrics lang="es" format="str">
+    reggae caleeeeeé
+Reggae calé es lo que baila mi gente
+buen flamenquito esta presente
+sienteme, siempre que yo te cante
+te ayuda la esquina pa′ alantey ole y ole y ole y ole baila mi reggae calé
+y ole y ole y ole y ole pilla ganja y fuma fumalepilla ganja y fuma fumale baila mi reggae calé y ole Reggae calé es lo que baila mi gente
+buen flamenquito esta presente
+sienteme, siempre que yo te cante
+te ayuda la esquina pa' alanteSigo cantando a la Luna llena,
+sueño despierto y mi alma en vela
+no cojo el sueño y ahogo mis penas
+buscando el calor de una candela
+Sigo cantando a la Luna llena,
+sueño despierto y mi alma en vela
+no cojo el sueño y ahogo mis penas
+buscando el calor de una candela
+Reggae calé es lo que baila mi gente
+buen flamenquito esta presente
+sienteme, siempre que yo te cante
+te ayuda la esquina pa′ alante
+  
+    </lyrics>
+    <album id="2" />
+</song>
