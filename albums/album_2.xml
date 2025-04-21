@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <album id="2">
-    <title>Huyendo de los dramas</title>
+    <title>A mi aire</title>
     <cover src="" />
     <songs>
         <song id="2" />
@@ -10,5 +10,6 @@
         <song id="6" />
         <song id="7" />
         <song id="8" />
+        <song id="9" />
     </songs>
 </album>
