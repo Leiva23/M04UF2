@@ -2,7 +2,7 @@
 
 <album id="1">
 	<title>Azahara</title>
-	<cover src="" />
+	<cover src="cover/album1.jpg" />
 	<songs>
 		<song id="1" />
 	</songs>
