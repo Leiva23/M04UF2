@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<album id="3">
+    <title>La Disco Resplandece</title>
+    <cover src="portadas/la_disco_resplandece.jpg" />
+    <songs>
+        <song id="10" />
+        <song id="11" />
+        <song id="12" />
+        <song id="13" />
+        <song id="14" />
+        <song id="15" />
+        <song id="16" />
+    </songs>
+</album>
