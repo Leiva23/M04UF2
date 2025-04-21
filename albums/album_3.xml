@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <album id="3">
     <title>La Disco Resplandece</title>
-    <cover src="portadas/la_disco_resplandece.jpg" />
+    <cover src="cover/album3.jpg" />
     <songs>
         <song id="10" />
         <song id="11" />
