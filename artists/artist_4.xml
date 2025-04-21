@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<artist id="4">
+    <name>Kaydy Cain</name>
+    <nationality country="es" />
+    <birthdate date="18-10-1994" />
+    <albums>
+        <album id="3" />
+    </albums>
+</artist>
