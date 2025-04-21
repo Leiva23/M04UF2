@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<artist id="3">
+    <name>Yung Beef</name>
+    <nationality country="es" />
+    <birthdate date="16-03-1996" />
+    <albums>
+        <album id="3" />
+    </albums>
+</artist>
