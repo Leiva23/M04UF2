@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<artist id="5">
+    <name>Khaled</name>
+    <nationality country="es" />
+    <birthdate date="06-09-1991" />
+    <albums>
+        <album id="3" />
+    </albums>
+</artist>
