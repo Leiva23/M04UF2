@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<song>
+    <title>Preguntad primero</title>
+    <artists>
+        <artist id="2">Kinky Bwoy</artist>
+    </artists>
+    <genres>
+        <genre id="1, 2" />
+    </genres>
+    <duration seconds="215" />
+    <lyrics lang="es" format="str">
+      
+    </lyrics>
+    <album id="2" />
+</song>
