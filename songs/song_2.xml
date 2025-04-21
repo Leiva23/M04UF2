@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<song>
+    <title>A mi aire</title>
+    <artists>
+        <artist id="2">Kinky Bwoy</artist>
+    </artists>
+    <genres>
+        <genre id="1, 2" />
+    </genres>
+    <duration seconds="210" />
+    <lyrics lang="es" format="str">
+       Que tú no te imaginas los problemas que tengo que soportar
+        Me conviene fumar, gangar, cantar y no arruinar mi vida
+        Que nunca he consentido que me digan qué camino debo andar
+        Siempre voy a mi aire como el aire que mi alma respira
+
+        Voy a mi aire, buscando esa salida
+        Ni tú ni nadie podrá decidir mi vía
+        Voy a mi aire, buscando esa salida
+        Pensando en mi familia, esquivando la envidia
+
+        Mi vida es un conflicto muy susceptible
+        Tantas puñaladas me hicieron invencible
+        Hoy mi flamenco hace que sea inconfundible
+        Aplico mi clase de rebeldía sensible
+        Es que no hay más aquí, muere el que mata
+        Ya no cree en Dios este indio de la plata
+        Y hoy lucho por no perderme más
+        Pero algo en mi corazón me delata
+
+        Que tú no te imaginas los problemas que tengo que soportar
+        Me conviene fumar, gangar, cantar y no arruinar mi vida
+        Que nunca he consentido que me digan qué camino debo andar
+        Siempre voy a mi aire como el aire que mi alma respira
+
+        Voy a mi aire, buscando esa salida
+        Ni tú ni nadie podrá decidir mi vía
+        Voy a mi aire, buscando esa salida
+        Pensando en mi familia, esquivando la envidia
+
+        Y no intentar dominar mi corazón
+        Y comprobar que si canto es con razón
+        Comida y pasta, buscar vuestra ilusión
+        Música rasta se oye en mi habitación
+
+        Y no intentar dominar mi corazón
+        Y comprobar que si canto es con razón
+        Comida y pasta, buscar vuestra ilusión
+        Música rasta se oye en mi habitación
+
+        Y es que por más que cante, por más que te cuente
+        Por mucho que te encante, no lo conseguiré
+
+        Y es que por más que cante, por más que te cuente
+        Por mucho que te encante, igual me moriré
+    </lyrics>
+    <album id="2" />
+</song>
