@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<artist>
+    <name>Kinki Boy</name>
+    <nationality country="es" />
+    <birthdate date="01-04-1988" />
+    <albums>
+        <album id="2" />
+    </albums>
+</artist>
