@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<artist>
-    <name>Kinki Boy</name>
-    <nationality country="es" />
-    <birthdate date="01-04-1988" />
-    <albums>
-        <album id="2" />
-    </albums>
-</artist>
+<album id="2">
+    <title>Huyendo de los dramas</title>
+    <cover src="" />
+    <songs>
+        <song id="2" />
+        <song id="3" />
+        <song id="4" />
+        <song id="5" />
+        <song id="6" />
+        <song id="7" />
+        <song id="8" />
+    </songs>
+</album>
