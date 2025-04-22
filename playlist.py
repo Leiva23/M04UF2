@@ -1,100 +1,93 @@
 #!/usr/bin/python3
 
+from bs4 import BeautifulSoup
+
 def show_menu():
-    while True:
-        print("- Menu Principal -")
-        print("1. Albunes")
-        print("2. Artistas")
-        print("3. Canciones")
-        print("4. Generos")
-        print("0. Salir")
-        
-        choice = int(input("Seleccione una opcion: "))
-        
-        if choice == 1:
-            show_menu_albums()
-        elif choice == 2:
-            show_menu_artists()
-        elif choice == 3:
-            show_menu_songs()
-        elif choice == 4:
-            show_menu_genres()
-        elif choice == 0:
-            print("Hasta luego!")
-            break
-        else:
-            print("Opcion no valida. Por favor, elija una opcion entre 0 y 4.")
-            
+	while True:
+		print("--- Menu ---")
+		print("1. Albums")
+		print("2. Artists")
+		print("3. Songs")
+		print("4. Genres")
+		print("0. Exit")
 
-def show_menu_albums():
-    while True:
-        print("- Menu de Albunes -")
-        print("1. Listar todos los albumes")
-        print("2. Buscar album por titulo")
-        print("0. Volver")
-        
-        choice = int(input("Seleccione una opcion: "))
-        
-        if choice == 1:
-            print("Listando todos los albunes...")
-        elif choice == 2:
-            print("Buscando album por titulo...")
-        elif choice == 0:
-            break
-        else:
-            print("Opcion no valida. Por favor, elija una opcion entre 0 y 2.")
-        
+		option_menu = input("Choose an option (0-4): ")
 
-def show_menu_artists():
-    while True:
-        print("- Menu de Artistas -")
-        print("1. Listar todos los artistas")
-        print("2. Buscar artista por nombre")
-        print("0. Volver")
-        
-        choice = int(input("Seleccione una opcion: "))
-        
-        if choice == 1:
-            print("Listando todos los artistas...")
-        elif choice == 2:
-            print("Buscando artista por nombre...")
-        elif choice == 0:
-            break
-        else:
-            print("Opcion no valida. Por favor, elija una opcion entre 0 y 2.")
+		if option_menu.isdigit():
+			option_menu = int(option_menu)
+			if 0 <= option_menu <= 4:
+				return option_menu
+			else:
+				print("Please, enter a number between 0 and 4.")
+		else:
+			print("Error: You must enter a valid number.")
 
 def show_menu_songs():
-    while True:
-        print("- Menu de Canciones -")
-        print("1. Listar todas las canciones")
-        print("2. Buscar cancion por titulo")
-        print("0. Volver")
-        
-        choice = int(input("Seleccione una opcion: "))
-        
-        if choice == 1:
-            print("Listando todas las canciones...")
-        elif choice == 2:
-            print("Buscando cancion por titulo...")
-        elif choice == 0:
-            break
-        else:
-            print("Opcion no valida. Por favor, elija una opcion entre 0 y 2.")
+	print("--- Songs Menu ---")
+	print("1. List all songs")
+	print("2. Search song by title")
+	print("0. Return")
+
+def show_menu_albums():
+	print("--- Albums Menu ---")
+	print("1. List all albums")
+	print("2. Search album by title")
+	print("0. Return")
+
+def show_menu_artists():
+	print("--- Artists Menu ---")
+	print("1. List all artists")
+	print("2. Search artist by title")
+	print("0. Return")
 
 def show_menu_genres():
-    while True:
-        print("- Menu de Generos -")
-        print("1. Listar todos los generos")
-        print("2. Buscar genero por nombre")
-        print("0. Volver")
-        
-        choice = int(input("Seleccione una opcion: "))
-        
-        if choice == 1:
-            print("Listando todos los generos...")
-        elif choice == 2:
-            print("Buscando genero por nombre...")
-        elif choice == 0:
-            break
-        else:
-            print("Opcion no valida. Por favor, elija una opcion entre 0 y 2.")
+	print("--- Genres Menu ---")
+	print("1. List all genres")
+	print("2. List genre by title")
+	print("0. Return")
+
+version = 0.5
+
+app_title="Playlist v" + str(version)
+
+print(app_title)
+print("-" * len(app_title))
+
+#xml_ejemplo = '<personaje><nombre>Jacinto</nombre><edad valor="33" /></personaje>'
+
+#print(xml_ejemplo)
+
+#personaje = BeautifulSoup(xml_ejemplo, 'xml')
+
+#print(personaje.prettify())
+
+#nombre = personaje.nombre
+
+#print(nombre.contents)
+#print(nombre.text)
+
+song_xml = open("songs/song_1.xml", "r").read()
+
+#print(song_xml)
+
+song = BeautifulSoup(song_xml, 'xml')
+
+print(song.title.text)
+print(int(song.duration["seconds"])/60)
+
+print(song.artists.find("artist"))
+
+for artist in song.artists.find("artist"):
+    print(artist.text)
+
+
+option_menu = show_menu()
+print("You chose the option:", option_menu)
+
+show_menu_songs()
+
+show_menu_albums()
+
+show_menu_artists()
+
+show_menu_genres()
