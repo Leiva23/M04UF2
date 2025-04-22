@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <album id="2">
     <title>A mi aire</title>
-    <cover src="cover/album2.jpg" />
+    <cover src="cover_album2.jpg" />
+    <artists>
+	    <artist id="2"> Kinky Bwoy <artist>
+    </artists>
     <songs>
         <song id="2" />
         <song id="3" />

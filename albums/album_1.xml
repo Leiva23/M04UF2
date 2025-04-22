@@ -2,7 +2,11 @@
 
 <album id="1">
 	<title>Azahara</title>
-	<cover src="cover/album1.jpg" />
+	<cover src="cover_album1.jpg" />
+	<artists>
+		<artist id="1">Galvan Real</artist>
+
+	</artists>
 	<songs>
 		<song id="1" />
 	</songs>

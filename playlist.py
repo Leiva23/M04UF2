@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 def show_menu():
     while True:
         print("- Menu Principal -")
@@ -27,7 +29,7 @@ def show_menu():
 def show_menu_albums():
     while True:
         print("- Menu de Albunes -")
-        print("1. Listar todos los albunes")
+        print("1. Listar todos los albumes")
         print("2. Buscar album por titulo")
         print("0. Volver")
         

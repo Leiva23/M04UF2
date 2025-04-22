@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <album id="3">
     <title>La Disco Resplandece</title>
-    <cover src="cover/album3.jpg" />
+    <cover src="cover_album3.jpg" />
+    <artists>
+	    <<artist id="3"> Yung beef <artist>
+	    <artist id="4"> Kaydy Cain <artist>
+	    <artist id="5"> Khaled <artist>
+    <artists>
+
     <songs>
         <song id="10" />
         <song id="11" />
