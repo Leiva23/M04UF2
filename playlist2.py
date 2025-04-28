@@ -2,6 +2,7 @@
 
 import os
 import sys
+import ascii
 from bs4 import BeautifulSoup
 
 ALBUMS_PATH="albums/"
@@ -23,7 +24,7 @@ file_xml = open(file_path, "r").read()
 
 
 def show_menu()
-	while option_menu !=0: # bucle principal
+	while option_menu != 0: # bucle principal
 	print("--- Menu ---")
 	print("1. Albums")
 	print("2. Artist")
@@ -59,7 +60,7 @@ def show_albums_opts ():
 	print("1. Show songs")
 	print("2. Show artist/s")
 	print("3. Show cover")
-	print("0. Bach")
+	print("0. Back")
 
 	option_menu = input("Choose an option (0-3): ")
 
