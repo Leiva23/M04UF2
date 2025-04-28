@@ -1,7 +1,7 @@
 <!DOCTYPE album[
 
 <!ELEMENT album (title, cover, artists, songs)>
-<!ELEMENT album id CDATA #REQUIRED>
+<!ATTLIST album id CDATA #REQUIRED>
 
 <!ELEMENT title (#PCDATA)>
 
