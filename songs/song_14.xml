@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<song id="14">
+<song id="14"/>
     <title>Tropical</title>
     <artists>
-        <artist id="4">Kaydy Cain</artist>
-        <artist id="5">Khaled</artist>
+        <artist id="4"/>
+        <artist id="5"/>
     </artists>
     <genres>
-        <genre id="2" /> <!-- Reggae -->
+        <genre id="2"/>
     </genres>
-    <duration seconds="230" />
+    <duration seconds="230"/>
     <lyrics lang="es" format="str">
 Tengo una puta tropical
 Con los ojos achinados
