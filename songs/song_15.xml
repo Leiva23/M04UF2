@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<song id="15">
+<song id="15/">
     <title>Dice Que No Me Quiere</title>
     <artists>
-        <artist id="3">Yung Beef</artist>
-        <artist id="4">Kaydy Cain</artist>
+        <artist id="3"/>
+        <artist id="4"/>
     </artists>
     <genres>
-        <genre id="1" />
+        <genre id="1"/>
     </genres>
     <duration seconds="210" />
     <lyrics lang="es" format="str">
