@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<song id="7">
+<song id="7"/>
     <title>Se lo han buscado</title>
     <artists>
-        <artist id="2">Kinky Bwoy</artist>
+        <artist id="2"/>
     </artists>
     <genres>
         <genre id="1, 2" />
