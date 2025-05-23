@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<song id="13">
+<song id="13"/>
     <title>Multiorgásmica</title>
     <artists>
-        <artist id="3">Yung Beef</artist>
-        <artist id="5">Khaled</artist>
+        <artist id="3"/>
+        <artist id="5"/>
     </artists>
     <genres>
-        <genre id="3" /> <!-- Trap -->
+        <genre id="3"/>
     </genres>
     <duration seconds="210" />
     <lyrics lang="es" format="str">
