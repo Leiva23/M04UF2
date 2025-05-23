@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<song id="8">
+<song id="8"/>
     <title>Mirada de cristal</title>
     <artists>
-        <artist id="2">Kinky Bwoy</artist>
+        <artist id="2"/>
     </artists>
     <genres>
-        <genre id="1, 2" />
+        <genre id="1"/>
+        <genre id="2"/>
     </genres>
     <duration seconds="217" />
     <lyrics lang="es" format="str">
