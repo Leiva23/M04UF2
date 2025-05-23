@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<artist>
+<artist id="2">
     <name>Kinky Bwoy</name>
     <nationality country="es" />
     <birthdate date="25-08-1990" />
