@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<song id="9">
+<song id="9"/>
     <title>Tributo a los banis</title>
     <artists>
-        <artist id="2">Kinky Bwoy</artist>
+        <artist id="2"/>
     </artists>
     <genres>
-        <genre id="1, 2" />
+        <genre id="1"/>
+        <genre id="2"/>
     </genres>
     <duration seconds="218" />
     <lyrics lang="es" format="str">
