@@ -37,6 +37,17 @@ elif primero < segundo:
 else:
     print("Son iguales")
 
+hora = 8
+match hora:
+    case 8:
+        print("Desayuno")
+    case 14:
+        print("Comida")
+    case 21:
+        print("Cena")
+    case _:
+        print("No toca comer")
+        
 contador = 10
 while contador > 0:
     print(contador)
