@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<song id="12">
+<song id="12"/>
     <title>Xapiadora</title>
     <artists>
-        <artist id="3">Yung Beef</artist>
-        <artist id="4">Kaydy Cain</artist>
+        <artist id="3"/>
+        <artist id="4"/>
     </artists>
     <genres>
-        <genre id="3" />
+        <genre id="3"/>
     </genres>
     <duration seconds="225" />
     <lyrics lang="es" format="str">
