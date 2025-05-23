@@ -6,13 +6,13 @@
 	    <artist id="2"> Kinky Bwoy <artist>
     </artists>
     <songs>
-        <song id="2" />
-        <song id="3" />
-        <song id="4" />
-        <song id="5" />
-        <song id="6" />
-        <song id="7" />
-        <song id="8" />
-        <song id="9" />
+        <song id="2">A mi aire</song>
+        <song id="3">Sin tener na</song>
+        <song id="4">Por si a caso</song>
+        <song id="5">Preguntad primero</song>
+        <song id="6">Reggae cale</song>
+        <song id="7">Se lo han buscado</song>
+        <song id="8">Mirada de cristal</song>
+        <song id="9">Tributo a los banis</song>
     </songs>
 </album>
