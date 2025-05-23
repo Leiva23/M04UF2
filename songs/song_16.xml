@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<song id="16">
+<song id="16"/>
     <title>Es de la Mafia</title>
     <artists>
-        <artist id="3">Yung Beef</artist>
-        <artist id="5">Khaled</artist>
+        <artist id="3"/>
+        <artist id="5"/>
     </artists>
     <genres>
-        <genre id="3" /> 
+        <genre id="3"/> 
     </genres>
     <duration seconds="220" />
     <lyrics lang="es" format="str">
