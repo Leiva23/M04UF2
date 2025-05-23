@@ -5,9 +5,10 @@
         <artist id="2"/>
     </artists>
     <genres>
-        <genre id="1, 2" />
+        <genre id="1"/>
+        <genre id="2"/>
     </genres>
-    <duration seconds="212" />
+    <duration seconds="212"/>
     <lyrics lang="es" format="str">
       
     </lyrics>
