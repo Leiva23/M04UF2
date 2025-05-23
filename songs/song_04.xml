@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<song id="4">
+<song id="4"/>
     <title>Por si a caso</title>
     <artists>
-        <artist id="2">Kinky Bwoy</artist>
+        <artist id="2"/>
     </artists>
     <genres>
-        <genre id="1, 2" />
+        <genre id="1"/>
+        <genre id="2"/>
     </genres>
     <duration seconds="220" />
     <lyrics lang="es" format="str">
