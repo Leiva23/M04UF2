@@ -44,9 +44,6 @@ def load_album(file_name):
         "songs": album_songs,
         "artists": []
     }
-
-    # Ya no cargamos portadas ni rutas
-
     return album
 
 def load_songs():
