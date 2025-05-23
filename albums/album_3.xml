@@ -9,12 +9,12 @@
     <artists>
 
     <songs>
-        <song id="10" />
-        <song id="11" />
-        <song id="12" />
-        <song id="13" />
-        <song id="14" />
-        <song id="15" />
-        <song id="16" />
+        <song id="10">La Disco Resplandece</song>
+        <song id="11">Bonita</song>
+        <song id="12">Xapiadora</song>
+        <song id="13">Multiorgásmica</song>
+        <song id="14">Tropical</song>
+        <song id="15">Dice Que No Me Quiere</song>
+        <song id="16">Es de la Mafia</song>
     </songs>
 </album>
