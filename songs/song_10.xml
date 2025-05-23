@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<song id="10">
+<song id="10"/>
     <title>La Disco Resplandece</title>
     <artists>
-        <artist id="3">Yung Beef</artist>
-        <artist id="4">Kaydy Cain</artist>
+        <artist id="3"/>
+        <artist id="4"/>
     </artists>
     <genres>
-        <genre id="1" />
+        <genre id="1"/>
     </genres>
-    <duration seconds="200" />
+    <duration seconds="200"/>
     <lyrics lang="es" format="str">
         La disco esta caliente
 Subele a la música pa esas nenas que se mueven
