@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<song id="3">
+<song id="3"/>
     <title>Sin tener na</title>
     <artists>
-        <artist id="2">Kinky Bwoy</artist>
+        <artist id="2"/>
     </artists>
     <genres>
-        <genre id="1, 2" />
+        <genre id="1"/>
+        <genre id="2"/>
     </genres>
     <duration seconds="225" />
     <lyrics lang="es" format="str">
