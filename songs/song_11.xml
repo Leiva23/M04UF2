@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<song id="11">
+<song id="11"/>
     <title>Bonita</title>
     <artists>
-        <artist id="3">Yung Beef</artist>
-        <artist id="5">Khaled</artist>
+        <artist id="3"/>
+        <artist id="5"/>
     </artists>
     <genres>
-        <genre id="2" /> 
+        <genre id="2"/> 
     </genres>
     <duration seconds="215" />
     <lyrics lang="es" format="str">
