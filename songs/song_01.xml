@@ -3,12 +3,12 @@
 <song id="1">
 	<title>Azahara</title>
 	<artists>
-		<artist id="1">Galvan Real</artist>
+		<artist id="1"/>
 	</artists>
 	<genres>
-		<genre id="1" />
+		<genre id="1"/>
 	</genres>
-	<duration seconds = "258" />
+	<duration seconds = "258"/>
 	<lyrics lang="es" format="str">
 		Tu silueta a mi me está llevando
 A ser culpable de este contrabando
